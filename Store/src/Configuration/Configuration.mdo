@@ -39,10 +39,12 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.КадровыйУчет</commonModules>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Производители</catalogs>
   <documents>Document.Документ</documents>
   <documents>Document.ПоступлениеТовара</documents>
+  <documents>Document.ПриемНаРаботу</documents>
   <documents>Document.РеализацияТоваров</documents>
 </mdclass:Configuration>
